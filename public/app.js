@@ -6,7 +6,7 @@
 
 // // Your web app's Firebase configuration
 // const firebaseConfig = {
-//     apiKey: "AIzaSyDuegM4YAcyjg8SEUTioDmTb5SgPBVgkGk",
+
 //     authDomain: "todo-app-c9e06.firebaseapp.com",
 //     databaseURL: "https://todo-app-c9e06-default-rtdb.firebaseio.com",
 //     projectId: "todo-app-c9e06",
@@ -48,7 +48,7 @@
   // Your web app's Firebase configuration
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
   const firebaseConfig = {
-    apiKey: "AIzaSyCN4FpNoPoj3d5-uoeIbq6pMbWTcv-g6XA",
+    
     authDomain: "todo-try-2.firebaseapp.com",
     databaseURL: "https://todo-try-2-default-rtdb.firebaseio.com",
     projectId: "todo-try-2",
